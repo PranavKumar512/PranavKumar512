@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning - kotlin programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email: mishrapranav224.edu@gmail.com
-- 📫Github - https://github.com/dash-codes315
+- 📫Github - https://github.com/PranavKumar512
 
 
