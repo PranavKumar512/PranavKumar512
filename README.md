@@ -26,7 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranav51286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav51286" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/pranav-kumar-943628289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav kumar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+pranavkumar512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_07pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_07pranav" height="30" width="40" /></a>
 </p>
 
