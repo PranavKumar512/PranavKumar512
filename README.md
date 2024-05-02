@@ -18,8 +18,6 @@
 - 💬 Ask me about [python](https://github.com/PranavKumar512/notepad-app)
 
 - 📫 How to reach me **mishrapranav224.edu@gmail.com**
-  
-- 📫 College Email ** bca.4052923@gmail.com**
 
 - ⚡ Fun fact **I am a good listener.**
 
